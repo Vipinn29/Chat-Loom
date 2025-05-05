@@ -16,6 +16,8 @@ npm install
 
 Run the server:
 node server.js
+or 
+npm start
 
 Open your browser and go to http://localhost:3000 to view this chat app.
 
